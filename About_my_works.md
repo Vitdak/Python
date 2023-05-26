@@ -1,4 +1,4 @@
- In these 4 python files, I wanted to show my Python knowledge (I know it‘s not much) which I gained during my self-learning. 
+ In these python files, I wanted to show my Python knowledge (I know it‘s not much) which I gained during my self-learning. 
  There is a long road ahead of me in the Python direction and this is where I start :)
 
 amazon_scraper.py - Scrapes info from Amazon and saves the info to a CSV file.
